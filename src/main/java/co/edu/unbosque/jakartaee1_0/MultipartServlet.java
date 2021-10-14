@@ -4,11 +4,11 @@ import java.io.*;
 import javax.servlet.ServletException;
 import javax.servlet.http.*;
 import javax.servlet.annotation.*;
-@WebServlet(name = "multiPart", value = "/multipart")
+@WebServlet(name = "multiPartServlet", value = "/multipart-Servlet")
 @MultipartConfig(fileSizeThreshold = 1024 * 1824,
             maxFileSize = 1024 * 1824 * 5,
             maxRequestSize = 1824 * 1824 * 5 * 5)
-public class Multipart extends HttpServlet{
+public class MultipartServlet extends HttpServlet{
     private String message;
     private String UPLOAD_DIRECTORY = "uploads";
 

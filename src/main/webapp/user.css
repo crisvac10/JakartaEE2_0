@@ -7,7 +7,7 @@ body{
     font-family: Arial;
     background-image: url("bg.jpg");
 }
-.form-login{
+.form-register{
     width: 400px;
     height: 340px;
     background: #4e4d4d ;
@@ -18,7 +18,7 @@ body{
     border-top: 4px solid #017bab;
     color: white;
 }
-.form-login h5{
+.form-register h5{
     margin: 0;
     text-align: center;
     height: 40px;

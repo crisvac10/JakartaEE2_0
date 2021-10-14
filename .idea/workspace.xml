@@ -10,12 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c882691-b1f3-4e9b-bbb7-97f8366827ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/unbosque/jakartaee1_0/Multipart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/user.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/unbosque/jakartaee1_0/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/unbosque/jakartaee1_0/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/unbosque/jakartaee1_0/Multipart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/unbosque/jakartaee1_0/MultipartServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/user.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/user.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +58,7 @@
   <component name="RunManager">
     <configuration name="JBoss/WildFly 25.0.0.Beta1" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss/WildFly 25.0.0.Beta1" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/JakartaEE1_0-1.0-SNAPSHOT" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <deployment>
         <artifact name="JakartaEE1_0:war exploded">
           <settings />
@@ -139,7 +138,7 @@
       <option name="presentableId" value="Default" />
       <updated>1634216523220</updated>
       <workItem from="1634216529752" duration="855000" />
-      <workItem from="1634218284898" duration="10124000" />
+      <workItem from="1634218284898" duration="12879000" />
     </task>
     <servers />
   </component>
