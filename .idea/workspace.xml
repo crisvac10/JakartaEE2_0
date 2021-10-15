@@ -13,9 +13,12 @@
 
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/unbosque/jakartaee1_0/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/unbosque/jakartaee1_0/HelloServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/unbosque/jakartaee1_0/MultipartServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/unbosque/jakartaee1_0/MultipartServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/form.html" afterDir="false" />
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+=======
 
+>>>>>>> 36795f1ca842e4f87664c94eed162b35b95f0adb
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,8 +155,14 @@
       <updated>1634216523220</updated>
 
       <workItem from="1634216529752" duration="855000" />
+<<<<<<< HEAD
+      <workItem from="1634218284898" duration="23348000" />
+      <workItem from="1634259975526" duration="141000" />
+      <workItem from="1634261041153" duration="7090000" />
+=======
       <workItem from="1634218284898" duration="23077000" />
 
+>>>>>>> 36795f1ca842e4f87664c94eed162b35b95f0adb
     </task>
     <servers />
   </component>
