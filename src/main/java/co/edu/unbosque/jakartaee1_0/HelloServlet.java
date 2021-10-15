@@ -24,7 +24,7 @@ public class HelloServlet extends HttpServlet {
             response.setContentType("text/html");
             PrintWriter out = response.getWriter();
             out.println("<html>");
-            out.println("<meta http-equiv='refresh'  content = '10;  URL= form2.html'>");
+            out.println("<meta http-equiv='refresh'  content = '5;  URL= form.html'>");
             out.println("</html>");
         }else if(username.equals("user") && password.equals("12345")){
             request.getRequestDispatcher("MultipartServlet").forward(request, response);
