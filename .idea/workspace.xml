@@ -10,10 +10,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c882691-b1f3-4e9b-bbb7-97f8366827ae" name="Changes" comment="">
+
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/unbosque/jakartaee1_0/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/unbosque/jakartaee1_0/HelloServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/form.html" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+=======
+
+>>>>>>> 36795f1ca842e4f87664c94eed162b35b95f0adb
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +29,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+
         <option value="CSS File" />
         <option value="Class" />
+
       </list>
     </option>
   </component>
@@ -47,10 +54,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Cristian Vaca\IdeaProjects\JakartaEE2_0\src\main\webapp" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Cristian Vaca\IdeaProjects\JakartaEE2_0\src\main\webapp" />
     </key>
@@ -58,7 +69,9 @@
   <component name="RunManager">
     <configuration name="JBoss/WildFly 25.0.0.Beta1" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss/WildFly 25.0.0.Beta1" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/JakartaEE1_0-1.0-SNAPSHOT" />
+
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+
       <option name="UPDATING_POLICY" value="redeploy-artifacts" />
       <deployment>
         <artifact name="JakartaEE1_0:war exploded">
@@ -75,7 +88,9 @@
       </server-settings>
       <predefined_log_file enabled="true" id="JBoss" />
       <RunnerSettings RunnerId="Debug">
+
         <option name="DEBUG_PORT" value="60617" />
+
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -138,10 +153,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634216523220</updated>
+
       <workItem from="1634216529752" duration="855000" />
+<<<<<<< HEAD
       <workItem from="1634218284898" duration="23348000" />
       <workItem from="1634259975526" duration="141000" />
       <workItem from="1634261041153" duration="7090000" />
+=======
+      <workItem from="1634218284898" duration="23077000" />
+
+>>>>>>> 36795f1ca842e4f87664c94eed162b35b95f0adb
     </task>
     <servers />
   </component>
